@@ -1,0 +1,11 @@
+[submodule "tools/grfcodec"]
+	path = tools/grfcodec
+	url = https://github.com/OpenTTD/grfcodec.git
+[submodule "tools/nml-0.4"]
+	path = tools/nml-0.4
+	url = https://github.com/OpenTTD/nml.git
+	branch = 0.4
+[submodule "tools/nml-0.5"]
+	path = tools/nml-0.5
+	url = https://github.com/OpenTTD/nml.git
+	branch = master
